@@ -1,11 +1,7 @@
-<script setup>
-    import Nav from '@/components/Nav.vue'
-</script>
+<script setup></script>
 
 <template>
-    <header>
-        <Nav />
-    </header>
+    <header>app started</header>
     <RouterView />
 </template>
 
