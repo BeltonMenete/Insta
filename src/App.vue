@@ -2,7 +2,12 @@
 
 <template>
     <header>app started</header>
-    <RouterView />
+    <!--  <RouterView /> -->
 </template>
 
-<style scoped></style>
+<style scoped>
+    header {
+        font-family: sans-serif;
+        font-size: 2rem;
+    }
+</style>
